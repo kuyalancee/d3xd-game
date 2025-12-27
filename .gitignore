@@ -1,0 +1,61 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.VC.opendb
+*.sdf
+*.opensdf
+
+# Visual Studio project user files
+*.vcxproj.user
+
+# Build / intermediate files
+[Bb]in/
+[Oo]bj/
+build/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# Compiler / linker outputs
+*.obj
+*.o
+*.lib
+*.a
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.ipch/
+*.pch
+
+# Package managers / toolchains
+packages/
+vcpkg/
+vcpkg_installed/
+installed/
+
+# NuGet
+*.nupkg
+project.lock.json
+
+# CMake (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Logs, temp, caches
+*.log
+*.tmp
+*~
+*.cache
+
+# IDE / OS files
+Thumbs.db
+.DS_Store
